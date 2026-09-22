@@ -1,7 +1,7 @@
 ## About me
 Kia ora, I’m Abin K Thomas 👋
 
-I'm a developer focused on the **PERN stack — PostgreSQL, Express.js, React, and Node.js**. I enjoy building web applications and exploring how the interface, server, and database work together.
+I'm a developer focused on the **PERN stack - PostgreSQL, Express.js, React, and Node.js**. I enjoy building web applications and exploring how the interface, server, and database work together.
 
 - 🎓 Pursuing a **Master of Information Technology** in **Wellington, New Zealand**.
 - 🎓 Completed a **B.Tech in Computer Science** at **Mar Baselios Christian College of Engineering and Technology**.
