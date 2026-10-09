@@ -1,13 +1,13 @@
 
 <div align="center">
   <a href="https://github.com/Abin1X">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Abin+K+Thomas+%F0%9F%91%8B;Full-Stack+Developer;PERN+Stack+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Abin+K+Thomas;Full-Stack+Developer;PERN+Stack+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
 ## About me
 
-Kia ora, I’m Abin K Thomas 👋
+Kia ora, I’m Abin K Thomas 
 
 I'm a developer focused on the **PERN stack - PostgreSQL, Express.js, React, and Node.js**, with **Drizzle ORM** for database management. I enjoy building web applications and exploring how the interface, server, and database work together.
 
