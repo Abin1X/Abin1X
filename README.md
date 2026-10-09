@@ -1,7 +1,15 @@
+
+<div align="center">
+  <a href="https://github.com/Abin1X">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Abin+K+Thomas+%F0%9F%91%8B;Full-Stack+Developer;PERN+Stack+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
+
 ## About me
+
 Kia ora, I’m Abin K Thomas 👋
 
-I'm a developer focused on the **PERN stack - PostgreSQL, Express.js, React, and Node.js**. I enjoy building web applications and exploring how the interface, server, and database work together.
+I'm a developer focused on the **PERN stack - PostgreSQL, Express.js, React, and Node.js**, with **Drizzle ORM** for database management. I enjoy building web applications and exploring how the interface, server, and database work together.
 
 - 🎓 Pursuing a **Master of Information Technology** in **Wellington, New Zealand**.
 - 🎓 Completed a **B.Tech in Computer Science** at **Mar Baselios Christian College of Engineering and Technology**.
@@ -12,13 +20,16 @@ I'm a developer focused on the **PERN stack - PostgreSQL, Express.js, React, and
 
 ## Tech stack
 
-**PERN stack**
+**PERN stack & Database**
 
 [![PostgreSQL, Express.js, React, and Node.js](https://skillicons.dev/icons?i=postgres,express,react,nodejs&theme=dark)](https://skillicons.dev)
+<a href="https://orm.drizzle.team/">
+  <img src="https://cdn.simpleicons.org/drizzle/C5F74F" alt="Drizzle ORM" width="48" height="48" />
+</a>
 
-PostgreSQL · Express.js · React · Node.js
+PostgreSQL · Express.js · React · Node.js · Drizzle ORM
 
-Languages and tools**
+**Languages and tools**
 
 [![JavaScript, TypeScript, Git, Python, VS Code, and WebStorm](https://skillicons.dev/icons?i=js,ts,git,py,vscode,webstorm&theme=dark)](https://skillicons.dev)
 
@@ -42,7 +53,7 @@ Tailwind CSS · shadcn/ui
 
 ### Classroom Management
 
-A **full-stack classroom management application** currently in development. I'm working across the frontend, backend, and database, with **React, TypeScript, and Refine** powering the frontend.
+A **full-stack classroom management application** currently in development. I'm working across the frontend, backend, and database, with **React, TypeScript, and Refine** powering the frontend and **PostgreSQL with Drizzle ORM** for database management.
 
 [View the frontend repository →](https://github.com/Abin1X/classroom-frontend)
 
